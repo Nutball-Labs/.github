@@ -8,9 +8,9 @@ Small-shop C++ tooling for people who want to do something useful with their dat
 
 ### [PathMux](https://github.com/Nutball-Labs/PathMux)
 
-CLI tool for Linux that works with Pruveeo D90 360° dashcam footage.
+CLI tool for Linux that works with dashcam footage, started with a Pruveeo D90 360° 4 channel.
 Scans SD card directories, groups video segments into trips, caches manifests,
-and extracts GPS tracks to GPX/KML for mapping or archiving.
+and extracts GPS tracks to GPX/KML/geojson for mapping or archiving.
 
 - C++17 · CMake · AlmaLinux 9.x primary target
 - Extracts LIGOGPSINFO GPS streams via ExifTool; outputs GeoJSON track files
