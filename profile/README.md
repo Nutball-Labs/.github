@@ -1,5 +1,9 @@
 # Nutball Labs
 
+<p align="center">
+  <img src="kali-logo.png" alt="Nutball-Labs logo" width="300"/>
+</p>
+
 ```
       / \__
      (    @\___
