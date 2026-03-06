@@ -1,5 +1,15 @@
 # Nutball Labs
 
+```
+      / \__
+     (    @\___
+     /         O
+    /   (_____/
+   /_____/   U
+
+      Nutball-Labs
+```
+
 Small-shop C++ tooling for people who want to do something useful with their data.
 
 ---
