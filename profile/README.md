@@ -5,7 +5,8 @@ Small-shop C++ tooling for people who want to do something useful with their dat
 ---
 
 ## Projects
-
+- Projects are currently set to Private while undergoing initial building.
+  
 ### [PathMux](https://github.com/Nutball-Labs/PathMux)
 
 CLI tool for Linux that works with dashcam footage, started with a Pruveeo D90 360° 4 channel.
