@@ -7,7 +7,7 @@
     /   (_____/
    /_____/   U
 
-      Nutball-Labs
+      Nutball-Labs  Kali Approved, 2026
 ```
 
 Small-shop C++ tooling for people who want to do something useful with their data.
