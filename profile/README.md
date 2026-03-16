@@ -53,3 +53,9 @@ Both projects share the same development conventions: C++17, CMake, AlmaLinux 9.
 ---
 
 *AlmaLinux 9.x · C++17 · CMake · ffmpeg · Qt6*
+
+---
+
+## Socials
+
+- [Facebook](https://www.facebook.com/profile.php?id=61582196172416)
