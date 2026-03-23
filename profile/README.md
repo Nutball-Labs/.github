@@ -27,7 +27,7 @@ and extracts GPS tracks to GPX/KML/geojson for mapping or archiving.
 - Batch tools: `pm_gpsinfo`, `pm_gpsexport`, `pm_findgpslock`, `pm_audit`, `pm_probe`
 - Phase 2 (Qt6 viewer) planned
 
-**Status:** Active CLI development — v0.9.x
+**Status:** Active CLI development — v1.0.0
 
 ---
 
