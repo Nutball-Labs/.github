@@ -14,7 +14,7 @@ Small-shop C++ tooling for people who want to do something useful with their dat
 ---
 
 ## Projects
-- Projects are currently set to Private while undergoing initial building.
+- SRoute project set to Private while undergoing initial building.
   
 ### [PathMux](https://github.com/Nutball-Labs/PathMux)
 
