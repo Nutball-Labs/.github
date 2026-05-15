@@ -14,7 +14,6 @@ Small-shop C++ tooling for people who want to do something useful with their dat
 ---
 
 ## Projects
-- SRoute project set to Private while undergoing initial building.
   
 ### [CamClops](https://github.com/Nutball-Labs/CamClops)
 
@@ -31,6 +30,8 @@ and building synchronized multi-camera 4K videos. Started with a Pruveeo D90 360
 ---
 
 ### [SRoute](https://github.com/Nutball-Labs/SRoute)
+
+- SRoute project set to Private while undergoing initial building.
 
 Qt6 desktop application that turns a Strava activity into a shareable 4K video.
 Pulls route data from the Strava API, matches geotagged photos to GPS trackpoints,
