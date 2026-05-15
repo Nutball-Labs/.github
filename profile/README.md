@@ -16,18 +16,17 @@ Small-shop C++ tooling for people who want to do something useful with their dat
 ## Projects
 - SRoute project set to Private while undergoing initial building.
   
-### [PathMux](https://github.com/Nutball-Labs/PathMux)
+### [CamClops](https://github.com/Nutball-Labs/CamClops)
 
-CLI tool for Linux that works with dashcam footage, started with a Pruveeo D90 360° 4 channel.
-Scans SD card directories, groups video segments into trips, caches manifests,
-and extracts GPS tracks to GPX/KML/geojson for mapping or archiving.
+Desktop GUI + CLI toolset for organizing dashcam footage into trips, extracting GPS tracks,
+and building synchronized multi-camera 4K videos. Started with a Pruveeo D90 360° 4 channel.
 
-- C++17 · CMake · AlmaLinux 9.x primary target
-- Extracts LIGOGPSINFO GPS streams via ExifTool; outputs GeoJSON track files
-- Batch tools: `pm_gpsinfo`, `pm_gpsexport`, `pm_findgpslock`, `pm_audit`, `pm_probe`
-- Phase 2 (Qt6 viewer) planned
+- C++17 · Qt6 · CMake · AlmaLinux 9.x primary target; Linux/macOS/Windows
+- Qt6 GUI: manifest browser, trip grid, collage builder, GPS export, moving map, instrument dashboard, HUD overlay
+- CLI tools: `clops_probe`, `clops_gpsinfo`, `clops_gpsexport`, `clops_audit`, `clops_ls`, `clops_videos`
+- `camclops-tl` timelapse editor for variable-speed clip creation
 
-**Status:** Active CLI development — v1.0.0
+**Status:** Active development — v2.0.1a · Phase 1 (CLI) feature-complete · Phase 2 (Qt6 GUI) shipping
 
 ---
 
